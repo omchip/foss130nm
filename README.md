@@ -1,2 +1,4 @@
 # foss130nm
-Chip Designs for the foss skywalker 130nm and google shuttle
+Music Chip Designs for the FOSS Skywalker 130nm and google shuttle
+
+Questions? adrian@nomni.com
