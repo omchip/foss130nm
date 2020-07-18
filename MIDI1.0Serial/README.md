@@ -10,3 +10,9 @@ Requirements
 * FIFO's
 * Extra Credit
   Time stamped FIFO with hardware scheduling and tagging
+  
+Starting Points
+---------------
+
+
+https://github.com/ZipCPU/wbuart32   (note that this is GPLv3 licensed with payment required to change it)
