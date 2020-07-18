@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-The RISC-V based harness includes a simple bus
+The RISC-V based harness includes a wishbone bus
 
 Requirements
 ------------
@@ -16,3 +16,7 @@ Starting Points
 
 
 https://github.com/ZipCPU/wbuart32   (note that this is GPLv3 licensed with payment required to change it)
+
+Please note that the Lattice Wishbone example implementation requires that you only use what you learn from their code on Lattice devices.
+
+
